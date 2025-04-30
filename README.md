@@ -1,4 +1,4 @@
-# flutter_application_2
+# GST Billing App
 
 A new Flutter project.
 
